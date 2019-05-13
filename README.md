@@ -1,5 +1,7 @@
 # REST Demystified with Express
 
+## RESTって何ですか？
+
 According to Wikipedia, **Representational state transfer** (REST) is 
 
 > ...a software architectural style that defines a set of constraints to 
@@ -8,6 +10,8 @@ According to Wikipedia, **Representational state transfer** (REST) is
 In turn, the **architecture** of a software system
 
 > ...is a metaphor, analogous to the architecture of a building.
+
+![A well rested cat](https://i.imgur.com/3yvjEKK.jpg)
 
 ## Routes and Endpoints
 
@@ -18,6 +22,10 @@ In turn, the **architecture** of a software system
 
 In Express, **requests** and **responses** are seen as parameters of 
 callback functions.
+
+Requests ask a server for some data.
+
+Responses are the data you get back from the API.
 
 ## Making some sentences
 
