@@ -14,6 +14,9 @@ alternative approaches.
 tools designed for human beings to make programs talk to each other (which in
 turn may talk to human beings).
 
+For instance, (example of a thing you would want an API for---this is
+what we will build)
+
 ## What is REST?
 
 According to Wikipedia, **Representational state transfer** (REST) is 
@@ -26,6 +29,9 @@ In turn, the **architecture** of a software system
 > ...is a metaphor, analogous to the architecture of a building.
 
 A *RESTful* API is thus an API designed around a particular set of constraints.
+
+Note that REST is *not* a strictly defined protocol, like SOAP (or
+HTTP), but rather a *style* of doing things.
 
 
 ![A well rested cat](https://i.imgur.com/3yvjEKK.jpg)
@@ -81,3 +87,4 @@ A *RESTful* API may allow *CRUD* operations on via *HTTP* methods.
 - [REST API Handbook](https://developer.wordpress.org/rest-api/)  from
   Wordpress.org
 - [REST API Tutorial](https://www.restapitutorial.com/)
+- [SOAP vs REST vs JSON comparison [2019]](https://raygun.com/blog/soap-vs-rest-vs-json/) on RAYGUN
